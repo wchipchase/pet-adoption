@@ -1,12 +1,12 @@
 # Pet Adoption site
-A personal website to extoll my virtues to future employers
+A website to help animals get adopted
 
 ## Description
 This demonstrates some flexbox stuff and some CSS as well as working with the dom
 
 ## Getting Started
 ```
-$ git clone https://github.com/wchipchase/personal-bio-site
+$ git clone https://github.com/wchipchase/pet-adoption
 ```
 ### Prerequisites
 ```
@@ -14,6 +14,6 @@ $ npm install -g http-server
 ```
 
 ## Running
-Browse to personal-bio-site directory and run http server
+Browse to pet-adoption site directory and run http server
 
 ![page of pies](https://raw.githubusercontent.com/wchipchase/pie/master/screenshots/pie.JPG "a bunch of pies")
