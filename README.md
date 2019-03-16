@@ -16,4 +16,4 @@ $ npm install -g http-server
 ## Running
 Browse to pet-adoption site directory and run http server
 
-![page of pies](https://raw.githubusercontent.com/wchipchase/pie/master/screenshots/pie.JPG "a bunch of pies")
+![page of pets](https://raw.githubusercontent.com/wchipchase/pet-adoption/master/screenshots/dino_dog_%20cat.JPG "a bunch of pets")
